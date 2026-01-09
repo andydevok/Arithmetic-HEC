@@ -70,9 +70,8 @@ python miner.py
   url={[https://github.com/andydevok/Arithmetic-Event-Horizon](https://github.com/andydevok/Arithmetic-Event-Horizon)}
 }
 
-MIT License
-
-Copyright (c) 2025 Andrés Sebastián Pirolo
+⚠️ Non-commercial license.
+Commercial use requires explicit permission from the author.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
